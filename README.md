@@ -17,7 +17,7 @@ Don't worry about the package requirements. The next section, takes you through 
 
 # Installing 
 
-To install the necessary packages for this application to run without errors, open the *school_python_project2* folder in your terminal (or command prompt, or powershell), and run this command below:
+To install the necessary packages for this application to run without errors, open the *school_python_project_2* folder in your terminal (or command prompt, or powershell), and run this command below:
 ```bash
 pip install tk matplotlib requests numpy
 ```
