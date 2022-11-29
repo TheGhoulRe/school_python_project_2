@@ -1,4 +1,4 @@
-from tkinter import Text, Tk, Button, Listbox, Event
+from tkinter import Text, Tk, Button, Listbox
 from api_interaction import search_movie, show_pie_chart
 
 def main(root):
