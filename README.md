@@ -24,9 +24,9 @@ pip install tk matplotlib requests numpy
 
 # Starting up the application
 
-Now that the project is set up, it's time to run the application. You can run this application by clicking your IDEs `run` button in *main.py*, or by running this command in your terminal:
+Now that the project is set up, it's time to run the application. You can run this application by clicking your IDEs `run` button in *searcher.py*, or by running this command in your terminal:
 ```bash
-python main.py
+python searcher.py
 ```
 
 # How to compile
@@ -40,7 +40,7 @@ pip install -U pyinstaller
 
 Then, run this command to compile the project:
 ```bash
-pyinstaller main.py
+pyinstaller searcher.py
 ```
 
-Once you run the command above, `pyinstaller` creates a directory called *dist*. Inside the *dist* folder, there'll be a *main* project folder.
+Once you run the command above, `pyinstaller` creates a directory called *dist*. Inside the *dist* folder, there'll be a *searcher* project folder.
